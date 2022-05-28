@@ -1,0 +1,338 @@
+00:00:10 計畫
+00:00:12 計畫
+00:00:15 我們是希望
+00:01:34 計畫
+00:01:46 計畫
+00:03:06 * 運輸協會 -> 運輸學會
+00:05:16 clarification就是
+00:06:00 計畫
+00:06:23 計畫
+00:06:31 計畫
+00:06:41 that's not true
+00:06:59 Jiont program office
+00:07:03 coordinator
+00:07:35 那Federal Highway跟我們做的是最多的
+00:07:47 State planning research
+00:08:10 ？
+00:08:16 計畫
+00:08:20 計畫
+00:08:47 合在一起
+00:08:54 testing
+00:09:11 計畫
+00:09:13 計畫
+00:09:28 他們不見得發表
+00:09:31 safety
+00:09:32 safety
+00:09:34 Federal Highway
+00:09:38 safety的錢是從Federal Highway
+00:10:20 計畫
+00:10:29 argonne national lab
+00:10:35 一個的vision
+00:10:43 計畫
+00:10:50 計畫
+00:10:56 計畫
+00:11:17 operation方式
+00:11:23 Manage project 的問題
+00:11:25 計畫
+00:11:45 其他有model carrier我就沒寫了
+00:11:54 local這個 transit agency
+00:11:57 計畫
+00:12:03 * 公共因素 -> 公共運輸
+00:12:33 * 是不可以 -> 是不是可以
+00:12:57 onset consultant
+00:13:00 但是在車禍的database
+00:13:01 跟human factor有關的
+00:13:42 計畫
+00:13:43 NCHRP
+00:13:54 由各州提項目
+00:13:56 經過panel選取以後
+00:13:58 計畫
+00:14:06 我聽說港口
+00:14:12 計畫
+00:14:18 計畫
+00:15:07 所以以academy為主的
+00:15:20 計畫
+00:15:28 計畫
+00:16:28 計畫
+00:16:42 文獻回顧的性質
+00:16:44 計畫
+00:16:55 贊同
+00:17:57 計畫 計畫
+00:18:35 * 卡拉基麥倫 -> 卡內基美隆
+00:18:55 計畫
+00:19:06 計畫
+00:19:28 計畫
+00:19:31 我的assessment裡面
+00:19:44 cost benefit就夠了 
+00:20:17 計畫
+00:20:19 代表presentation的順序
+00:21:18 的operation的話
+00:21:21 不能只看那個city
+00:21:28 已把他歸類成
+00:21:50 計畫
+00:22:17 indivisual demand跟simulations合在一起的
+00:22:20 * ? 和 ? -> Individual Demand 和 Simulation
+00:22:26 simulations
+00:22:27 終於把supply demand加在一起
+00:22:28 transmission
+00:22:45 unconventional design
+00:23:00 從control硬體去改變
+00:23:58 * face -> phase
+00:24:02 設計coordinate就很容易
+00:24:48 * 時向 -> 時相
+00:24:53 這是一個unconventional他範圍很廣
+00:26:00 * 看著 -> Count
+00:27:21 去detect
+00:27:43 ？化
+00:28:04 非重現性
+00:28:31 這個？會多長
+00:28:41 建立它 DATEBASE
+00:28:58 NETWORK裡面
+00:29:02 Non-recurring congestion的影響
+00:29:10 我們那個？
+00:29:11 我也跟各位分享Highway Capacity Manual
+00:29:14 * 其實沒有很多問題 -> 其實裡面有很多問題
+00:29:18 Highway Capacity Manual
+00:29:28 那只好用Highway Capacity Manual
+00:29:29 Highway Capacity Manualul並不是
+00:29:32 做研究我們絕不用Highway Capacity Manual
+00:29:24 實務上
+00:29:38 Highway Capacity 的
+00:29:42 Highway Capacity 一直一直在改進
+00:30:14 所謂vita(vita刪除)
+00:30:36 開車的人有benefit
+00:30:41 * vita -> "刪除"
+00:30:57 * 平靜 -> 瓶頸
+00:32:01 傳統的？
+00:32:14 他這個？
+00:32:27 可以把coordinate起來
+00:32:36 衝突點
+00:33:08 database
+00:33:14 * 信息 -> 訊息
+00:33:42 一種approach
+00:33:47 operation researh裡面
+00:34:25 * 形態 -> 型態
+00:34:38 是不是incident
+00:34:56 mitigate congestion
+00:34:57 有recurred的
+00:34:59 跟non-recurred
+00:35:16 什麼方法
+00:36:55 車種
+00:37:11 * creativity -> criteria
+00:37:55 Movement在這個aterial裡面
+00:38:08 in advance 控制
+00:39:33 bus的progression
+00:39:40 同時有progression的情況下
+00:39:44 * ? -> Progression
+00:40:44 ？
+00:40:46 地方道路的signal coordination
+00:40:57 跟aterial signal
+00:41:01 可以coordinate在一起
+00:41:09 現象
+00:41:41 他給你什麼benifit
+00:41:49 * 不做 -> 不走
+00:42:01 給妳什麼credit這樣子
+00:42:10 我可能會實施？
+00:42:13 ?擁擠稅
+00:42:43 來解決這個?問題
+00:42:53 兩邊combine在一起的方式
+00:43:17 * automated -> autonomous
+00:43:36 製造
+00:44:10 明天的那個周周的(刪除"周周的")
+00:44:31 * parallel comouting -> parallel computing
+00:44:39 class，然後CLASS
+00:44:55 即時
+00:45:10 * Involution -> Evolution
+00:45:24 你signal控制的用途
+00:45:44 用紅綠燈來
+00:46:03 最多的Throughput
+00:47:14 那個probe vehicle就是什麼
+00:47:34 agent-based approach
+00:47:47 * Deed -> Deep
+00:47:57 就叫作？
+00:48:00 本來就？
+00:48:03 * ? -> 刪除
+00:48:08 這個基本上都是？
+00:48:09 ？control
+00:48:35 traffic signal control
+00:48:42 現在所有的demonstration
+00:49:09 * Connective -> connected
+00:49:38 如果queue很長
+00:49:41 * ? -> Queue
+00:49:46 signal control optimization
+00:49:52 * 規則 -> 鬼扯
+00:49:57 * situation -> saturation
+00:50:11 * 引 -> 跟
+00:50:39 again
+00:50:46 * ? -> traffic assignment
+00:50:42 traffic assignment裡面都是只有
+00:51:15 BPR equation
+00:51:55 * ? 社會的 ? -> Social Benefit 社會的 equity
+00:51:59 * ? -> Equity
+00:52:18 有個cordon line
+00:52:19 一個cordon line
+00:52:53 * multi-model -> multi-modal
+00:53:07 * 研學生 -> 一個學生
+00:53:17 Motorcycle
+00:53:33 * 帶隊 -> 在對
+00:54:28 DEMAND
+00:54:41 ongoing的issue
+00:55:06 恢復
+00:55:45 迫使台灣
+00:56:10 計畫
+00:56:13 實務
+00:57:20 transit riders
+00:57:30 muiti-model著眼設計的
+00:57:36 這是urban planning
+00:57:40 * ? -> urban planning
+00:57:45 urban planning
+00:57:52 big data
+00:57:59 計畫
+00:58:13 計畫
+00:58:17 計畫
+00:58:28 * 政委 -> 政府
+00:59:19 non-recurret
+00:59:24 * no ? -> non-recurrent
+00:59:43 testing
+01:00:26 big data
+01:00:27 big data
+01:00:29 data
+01:00:34 data
+01:00:36 data
+01:00:36 data
+01:01:21 distractor
+01:02:17 自動車automated vehicle
+01:02:19 控制？
+01:02:23 * ? -> Algorithm 
+01:02:27 最多是Carnegie Mellene跟University of Michigan
+01:02:32 * ? -> Carnegie Mellon
+01:02:48 有connected-vehicle的時候
+01:02:52 * ? -> Connected Vehicle
+01:03:24 批准
+01:03:28 批准
+01:03:32 前面講natural highway safety
+01:03:33 批准
+01:03:57 pedestrain的科技
+01:04:02 * ? -> Pedestrian
+01:04:46 實用
+01:04:48 這種operation
+01:05:02 這個倒是
+01:05:27 detect
+01:05:53 * protection -> pedestrian
+01:05:57 * protection -> pedestrian
+01:06:41 所謂的work zone的安全
+01:06:48 work zone的控制
+01:06:49 一個work zone
+01:07:19 V2E來聯繫
+01:07:17 這個是demonstration
+01:07:45 Vehicle to bicycle communication
+01:08:05 ？的學校
+01:08:09 * ? -> minority
+01:08:41 safety auditing
+01:08:47 safety auditing
+01:09:19 safety auditing 的意思就是重新檢視
+01:09:50 safety auditing
+01:10:01 * 和乎 -> 合乎
+01:10:03 * 和乎 -> 合乎
+01:11:30 當你有connective vehicle
+01:12:02 connected enviroment裡面 
+01:12:52 在探討說
+01:13:33 operation
+01:13:36 在實務上
+01:14:37 批准
+01:14:52 有什麼near-crash的情況
+01:14:57 * ? -> near crash
+01:15:04 兩邊有沒有什麼near-crash的情況
+01:15:09 這個project
+01:15:48 說他near-crash
+01:18:15 中華顧問工程司
+01:18:37 對應到
+01:18:51 計畫
+01:19:16 * 嗎 -> 嘛
+01:19:47 衝擊
+01:20:26 號誌路口
+01:21:15 demo
+01:21:27 計畫
+01:21:31 計畫
+01:21:50 * 制造 -> 製造
+01:22:04 * its -> IT
+01:26:33 中華顧問工程司
+01:27:06 計畫
+01:27:25 施政上需要的一些
+01:27:27 研究計畫
+01:27:31 這個？的計畫
+01:27:43 研究的計畫
+01:27:54 計畫
+01:28:20 計畫
+01:28:24 管道來去進一步來
+01:28:46 計畫
+01:29:06 計畫
+01:29:15 運輸研究中心
+01:29:27 計畫
+01:29:40 公共運輸的業者
+01:29:53 公總的這個公運計畫
+01:29:57 所謂的建設計畫
+01:29:59 計畫
+01:30:05 計畫
+01:30:26 計畫
+01:30:39 公運計畫
+01:30:57 計畫
+01:31:17 計畫
+01:31:23 道安改善預算
+01:31:26 區域運輸研究中心
+01:31:34 計畫
+01:31:36 計畫
+01:31:40 一個區域運輸研究中心
+01:32:25 計畫
+01:32:29 計畫
+01:32:35 計畫
+01:32:45 競爭型的計畫
+01:33:08 區域運輸發展研究中心
+01:34:55 所謂的？
+01:34:57 indicator出來以後
+01:35:08 衝突
+01:35:19 衝突
+01:35:30 safety auditing
+01:35:43 在啟動同仁自行的一個研究計畫
+01:35:47 這個safety auditing到底
+01:35:57 自行研究計畫
+01:36:01 initiate的一個
+01:36:01 計畫
+01:36:08 safety auditing這樣的一個制度
+01:36:29 計畫
+01:36:52 林所長
+01:37:17 以及connected vehicle相關
+01:37:39 ongoing的project
+01:38:39 在operation的部份
+01:39:00 聯外
+01:39:53 再加以有效的解決
+01:39:56 併排
+01:41:01 許添本老師
+01:41:05 呼應safety auditing的重要性
+01:41:09 檢視
+01:41:12 檢視
+01:41:28 最後一個課題是connected vehicle
+01:41:38 near-crash的接近車
+01:42:52 與談人
+01:43:16 衝動
+01:43:41 各位與談人
+01:44:02 中國大陸
+01:44:11 我們需要個vision
+01:44:28 我們下一個vision
+01:44:29 30年前的台灣
+01:44:49 可以再活30幾年看到
+01:44:50 這樣的evolution的過程嗎
+01:44:58 這樣的vision
+01:45:28 你只要有個vision
+01:45:30 為了達成這個vision
+01:45:58 我的vision 
+01:46:15 這個vision
+01:46:39 中國大陸
+01:47:16 methodology 跟tool也是差不了多少的嗎
+01:47:32 vision
+01:47:33 vision
+01:47:35 有vision以後你才會有計畫
+01:47:51 ok that's my wish
+01:48:01 vision
+01:49:56 第一個section
+01:50:02 刪除整句

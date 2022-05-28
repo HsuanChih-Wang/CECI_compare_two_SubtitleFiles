@@ -1,0 +1,163 @@
+00:03:06 運輸協會 -> 運輸學會
+00:05:16 ? ->  claffication
+00:06:40 但是not true -> that's not truth
+00:07:00 ? -> Joint
+00:07:04 cotonata -> coordinate
+00:08:11 ? -> oriented
+00:08:56 testy- > testing
+00:09:27 部件的 -> 不見得
+00:09:31 state -> safety
+00:09:33 state -> safety
+00:09:38 state -> safety
+00:10:20 計劃 -> 計畫
+00:10:30 ? -> Oak
+00:10:37 ? -> division
+00:11:45 ? -> motor carrer
+00:12:03 公共因素 -> 公共運輸
+00:12:33 是不可以 -> 是不是可以
+00:12:58 ? -> on-set
+00:13:01 date ? -> database
+00:13:02 ? -> human factors
+00:13:56 ? -> panel
+00:14:07 ? -> 港口
+00:15:08 ? -> academic
+00:16:43 thing -> 心思
+00:16:46 計劃 -> 計畫
+00:18:35 卡拉基麥倫 -> 卡內基美隆
+00:18:57 Categories -> categorize
+00:19:07 計劃 -> 計畫
+00:19:45 ? -> benefit
+00:21:20 ? -> operation
+00:21:49 計劃檢查 -> 計劃這樣子 
+00:22:20 ? 和 ? -> Individual Demand 和 Simulation
+00:22:28 ? -> Demand
+00:22:29 ? -> 出來Simulation
+00:23:00 ? -> Control
+00:23:58 face -> phase
+00:24:04 ? -> Coordinated
+00:24:48 時向 -> 時相
+00:24:52 時向 -> 時相
+00:24:55 ? -> Unconventional
+00:26:00 看著 -> Count
+00:27:45 ? -> CBD Downtown area
+00:28:05 重限性 -> 重現性
+00:28:43 date -> database
+00:29:12 ? -> Highway Capacity Manual
+00:29:13 ? -> Highway Capacity Manual
+00:29:14 其實沒有很多問題 -> 其實裡面有很多問題
+00:29:17 ? -> Highway Capacity Manual
+00:29:28 ? -> Highway Capacity Manual
+00:29:28 ? -> Highway Capacity Manual
+00:29:32 ? -> Highway Capacity Manual
+00:29:34 實物 -> 實務
+00:29:38 ? -> Highway Capacity Manual
+00:29:42 ? -> Highway Capacity Manual
+00:30:41 vita -> "刪除"
+00:30:38 ? -> Benefit
+00:30:57 平靜 -> 瓶頸
+00:32:02 ? -> Diamond Interchange
+00:32:16 ? -> Diamond
+00:32:29 ? -> Coordinate
+00:32:28 沖突 -> 衝突
+00:33:08 data-based -> database
+00:33:14 信息 -> 訊息
+00:33:44 ? -> Approach
+00:33:49 ? -> Operation Research
+00:34:25 形態 -> 型態
+00:34:40 ? -> Incident
+00:34:56 method -> mitigatge
+00:34:59 ? -> Recurrent
+00:35:01 ? -> Non-Recurrent
+00:36:54 車總 -> 車種
+00:37:11 creativity -> criteria
+00:37:55 Multiple -> Movement
+00:38:08 ? -> Inadvance
+00:39:35 ? -> Progression
+00:39:44 ? -> Progression
+00:40:47 ? Signal ? -> 地方道路 Signal 的 Coordination
+00:40:59 ? -> Arterial 
+00:41:01 corridor -> coordinate
+00:41:03 閘道一控 -> 匝道儀控
+00:41:43 ? -> Benefit
+00:41:49 不做 -> 不走
+00:42:04 ? -> Credit
+00:42:13 ? -> Congestion
+00:42:14 ? -> 擁擠稅
+00:42:43 可加強 -> Congestion
+00:43:17 automated -> autonomous
+00:43:37 制造 -> 製造
+00:44:10 周周的 -> 加州的
+00:44:31 parallel comouting -> parallel computing
+00:44:41 ? -> 然後cluster
+00:44:53 及時 -> 即時
+00:45:10 Involution -> Evolution
+00:46:01 數 -> 速度
+00:46:06 ? -> Throughput
+00:47:16 ? -> Probe
+00:47:47 Deed -> Deep
+00:48:03 ? -> 刪除
+00:48:10 ? -> Adaptive
+00:48:11 ? -> Actuated
+00:48:38 ? singer control -> Traffic Signal Control
+00:48:45 ? -> demonstration
+00:49:09 Connective -> connected
+00:49:41 ? -> Queue
+00:49:48 ? -> optimization
+00:49:52 規則 -> 鬼扯
+00:49:57 situation -> saturation
+00:50:11 引 -> 跟
+00:50:42 ? -> again
+00:50:46 ? -> traffic assignment
+00:51:14 也可以選 -> Equation
+00:51:55 ? 社會的 ? -> Social Benefit 社會的 equity
+00:51:59 ? -> Equity
+00:52:21 cordon ? -> corridor line
+00:52:53 multi-model -> multi-modal
+00:53:07 研學生 -> 一個學生
+00:53:19 學員 -> 學生
+00:53:33 帶隊 -> 在對
+00:54:42 英雄 -> Issue
+00:55:07 恢覆 -> 恢復
+00:57:35 ? -> multi-order
+00:57:40 ? -> urban planning
+00:57:44 ? -> urban planning
+00:57:52 big date -> big data
+00:58:28 政委 -> 政府
+00:59:24 no ? -> non-recurrent
+01:00:26 big date -> big data
+01:00:29 date -> data
+01:00:34 date -> data
+01:00:35 date -> data
+01:01:21 distractor -> distraction
+01:02:21 ? -> Autonomous Vehicle
+01:02:23 ? -> Algorithm 
+01:02:32 ? -> Carnegie Mellon
+01:02:52 ? -> Connected Vehicle
+01:03:32 ? -> Natural Highway Safety
+01:04:02 ? -> Pedestrian
+01:04:48 apprehension -> operation
+01:05:28 detake -> detect
+01:05:53 protection -> pedestrian
+01:05:57 protection -> pedestrian
+01:06:46 ? -> work zone
+01:06:48 ? -> work zone
+01:07:18 ?的來聯係 -> V2V的來聯繫
+01:07:21 ? -> Demonstration
+01:07:47 complication -> communication
+01:08:09 ? -> minority
+01:10:01 和乎 -> 合乎
+01:10:03 和乎 -> 合乎
+01:11:31 connective -> connected vehicle
+01:13:36 實物 -> 實務
+01:14:57 ? -> near crash
+01:15:05 ? -> near crash
+01:15:48 說他crush -> 說他near crash
+01:18:16 中華顧問股份公司 -> 中華顧問工程司
+01:18:37 對引 -> 對應
+01:19:16 嗎 -> 嘛
+01:19:49 沖擊 -> 衝擊
+01:20:27 入口 -> 路口
+01:21:16 dome -> demo
+01:21:26 計劃 -> 計畫
+01:21:50 制造 -> 製造
+01:22:04 its -> ITS
